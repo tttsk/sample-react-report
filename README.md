@@ -15,4 +15,4 @@ https://sample-react-report.vercel.app/
 - 登録済みの日報はモーダルウィンドウ内"日報更新"ボタン押下で変更が可能。
 - 日報登録済みの日付はカレンダー上でグレーで表示。
 
-<img width="1038" alt="スクリーンショット 2024-10-16 0 20 18" src="https://github.com/user-attachments/assets/ece59725-e6ff-4f38-bea6-d08c98724b48">
+<img width="997" alt="スクリーンショット 2024-10-16 0 34 13" src="https://github.com/user-attachments/assets/034ba5b5-f4da-4422-ad01-84820481a48a">
