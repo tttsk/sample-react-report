@@ -96,7 +96,7 @@ export const MyDatePicker = memo(() => {
           root: `${defaultClassNames.root} sm:mt-10 mt-3 w-full lg:max-w-4xl mx-auto my-0`,
           month_caption: `font-bold text-center text-xl mb-2`,
           nav: `${defaultClassNames.nav} items-stretch`,
-          today: `text-purple-700 font-bold animate-pulse bg-gray-300 hover:bg-gray-300`,
+          today: `text-purple-700 font-bold animate-pulse`,
           chevron: `${defaultClassNames.chevron} fill-amber-500`,
           months: `max-w-none`,
           month_grid: `w-full`,
